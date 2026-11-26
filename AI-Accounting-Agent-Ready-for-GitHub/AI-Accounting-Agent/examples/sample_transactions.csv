@@ -1,0 +1,10 @@
+Date,Reference,Description,Debit,Credit
+2026-01-02,BANK-001,Owner funds deposited,5000.00,
+2026-01-03,BANK-002,Office rent paid,,1200.00
+2026-01-04,BANK-003,Customer receipt - invoice INV100,2500.00,
+2026-01-05,BANK-004,Office supplies,,150.00
+2026-01-06,BANK-005,Transfer to company savings account,,1000.00
+2026-01-06,BANK-006,Transfer from current account,1000.00,
+2026-01-07,BANK-007,Equipment purchase,,800.00
+2026-01-08,BANK-008,Loan repayment principal,,400.00
+2026-01-08,BANK-009,Loan interest,,60.00
